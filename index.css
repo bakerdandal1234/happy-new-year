@@ -1,0 +1,40 @@
+body{
+    text-align:center;
+    padding-top:10%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background:url(https://c8.alamy.com/comp/2DCBBWG/happy-new-year-2023-with-fireworks-background-celebration-new-year-2023-2DCBBWG.jpg);
+}
+*{
+    padding: 0;
+}
+.show{
+    display: none;
+}
+h1{
+    font-size: 150px;
+    color: black;
+   text-shadow: 5px 5px red;
+}
+h2{
+    font-size: 200px;
+    color: yellow;
+    text-shadow: 5px 5px blue;
+}
+input{
+    font-size: 80px;
+    width:70%;
+    border: 5px solid blue;
+}
+button{
+    font-size: 60px;
+    background: gray;
+    border-radius: 20px;
+    border:3px solid green;
+    font-weight: 400;
+}
+.ig{
+    height:80%;
+    width:100%;
+    border: 2px solid red;
+}
