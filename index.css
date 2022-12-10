@@ -2,9 +2,8 @@ body{
     text-align:center;
     padding-top:10%;
     background-size: cover;
-    background:url(https://c8.alamy.com/comp/2DCBBWG/happy-new-year-2023-with-fireworks-background-celebration-new-year-2023-2DCBBWG.jpg);
+    background-image:url(https://c8.alamy.com/comp/2DCBBWG/happy-new-year-2023-with-fireworks-background-celebration-new-year-2023-2DCBBWG.jpg);
     background-repeat: no-repeat;
-width:100%; 
 }
 *{
     padding: 0;
