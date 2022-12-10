@@ -1,4 +1,4 @@
-body{
+وعنbody{
     text-align:start;
     padding-top:10%;
     background-size: cover;
@@ -47,18 +47,24 @@ h1{
 h2{
     font-size: 100px;
 }
+body{
+text-align:center;
+} 
 }
 @media (max-width:680px){
     h1{
-        font-size:40px;
+        font-size:45px;
     }
     h2{
         font-size:50px;
     }
+body{
+text-align:center;
+} 
     }
     @media (max-width:350px){
         h1{
-            font-size:25px;
+            font-size:30px;
         }
         h2{
             font-size:25px;
