@@ -6,9 +6,6 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    object-fit: cover;
-    width:450px;
-    height:400px;
 }
 *{
     padding: 0;
@@ -39,8 +36,9 @@ button{
     font-weight: 400;
 }
 .ig{
-    height:90%;
-    width:100%;
+    object-fit: cover;
+    width:450px;
+    height:200px;
     border: 2px solid red;
   /*  padding-left: 20%;*/
 }
